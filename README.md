@@ -2,6 +2,9 @@
 
 by Alex
 
+- [Page](https://synth.4d4.live)
+- [Repo](https://github.com/alexguerra-dev/synth)
+
 ## Getting Started
 
 First, run the development server:
